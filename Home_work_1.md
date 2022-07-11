@@ -53,3 +53,7 @@
 * **git branch branch_name** - создать новую ветку
 * **git checkout branch_name** - переход к другой ветке
 * **git branch -d branch_name** - удалить ветку
+
+## Слияние веток
+
+* **git merge branch_name** - позволяет слить ветку branch_name с текущей веткой
